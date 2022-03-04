@@ -1,0 +1,7 @@
+tuple1=(1,3,4,56,90)
+tuple2=(1,19,0,0,8)
+print(tuple1)
+print(tuple2)
+print(tuple1[3],tuple1[2])
+print(tuple1[3]+tuple1[2])
+print(tuple1[4]-tuple2[4])

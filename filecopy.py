@@ -1,0 +1,8 @@
+f=open("syam.txt","r")
+s=f.read()
+print(s)
+v=open("krishna.txt","w")
+v.write(s)
+print(s)
+v.close()
+f.close()
